@@ -1,2 +1,2 @@
-# Random-color-game
+# Random-color-game React js practice
 Created with CodeSandbox
